@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">MyWeather</string>
+        <string name="location">Location</string>
+        <string name="temperature">Temperature</string>
+        <string name="humidity">HUMIDITY</string>
+        <string name="pressure">PRESSURE</string>
+        <string name="wind_speed">WIND SPEED</string>
+        <string name="wind_direction">WIND DIRECTION</string>
+        <string name="date_and_time">Date and Time</string>
+        <string name="search_location">Search</string>
+    </resources>
+
